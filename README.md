@@ -5,8 +5,9 @@
 <div align="center">
   <a href="https://github.com/zalasikdev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zalasikdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 150%;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalasikdev&layout=compact&langs_count=7&theme=dark" style="max-width: 150%;">
-</div>\
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalasikdev&layout=compact&langs_count=7&theme=dark" style="max-width: 150%;">
+ <img align="right" alt="Ryan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1037454983051874426/1037486927156346991/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?width=832&height=468">
+</div>
   
 
   <div style="display: inline_block"><br>
